@@ -1,0 +1,92 @@
+#
+# A fatal error has been detected by the Java Runtime Environment:
+#
+#  Internal Error (classFileParser.cpp:3174), pid=9124, tid=4044
+#  Error: ShouldNotReachHere()
+#
+# JRE version: 6.0_20-b02
+# Java VM: Java HotSpot(TM) 64-Bit Server VM (16.3-b01 mixed mode windows-amd64 )
+# If you would like to submit a bug report, please visit:
+#   http://java.sun.com/webapps/bugreport/crash.jsp
+#
+
+---------------  T H R E A D  ---------------
+
+Current thread (0x00000000004ec800):  JavaThread "Unknown thread" [_thread_in_vm, id=4044, stack(0x0000000002700000,0x0000000002800000)]
+
+Stack: [0x0000000002700000,0x0000000002800000]
+[error occurred during error reporting (printing stack bounds), id 0xc0000005]
+
+
+---------------  P R O C E S S  ---------------
+
+Java Threads: ( => current thread )
+
+Other Threads:
+
+=>0x00000000004ec800 (exited) JavaThread "Unknown thread" [_thread_in_vm, id=4044, stack(0x0000000002700000,0x0000000002800000)]
+
+VM state:not at safepoint (not fully initialized)
+
+VM Mutex/Monitor currently owned by a thread: None
+
+Dynamic libraries:
+0x0000000000400000 - 0x000000000042e000 	C:\Program Files\Java\jre6\bin\javaw.exe
+0x0000000077270000 - 0x0000000077419000 	C:\Windows\SYSTEM32\ntdll.dll
+0x0000000076c90000 - 0x0000000076daf000 	C:\Windows\system32\kernel32.dll
+0x000007fefcf60000 - 0x000007fefcfcc000 	C:\Windows\system32\KERNELBASE.dll
+0x000007fefe9f0000 - 0x000007fefeacb000 	C:\Windows\system32\ADVAPI32.dll
+0x000007fefe5d0000 - 0x000007fefe66f000 	C:\Windows\system32\msvcrt.dll
+0x000007fefe8a0000 - 0x000007fefe8bf000 	C:\Windows\SYSTEM32\sechost.dll
+0x000007fefd1f0000 - 0x000007fefd31d000 	C:\Windows\system32\RPCRT4.dll
+0x0000000076b90000 - 0x0000000076c8a000 	C:\Windows\system32\USER32.dll
+0x000007fefe800000 - 0x000007fefe867000 	C:\Windows\system32\GDI32.dll
+0x000007fefe870000 - 0x000007fefe87e000 	C:\Windows\system32\LPK.dll
+0x000007fefe920000 - 0x000007fefe9e9000 	C:\Windows\system32\USP10.dll
+0x000007fefd1c0000 - 0x000007fefd1ee000 	C:\Windows\system32\IMM32.DLL
+0x000007fefe6f0000 - 0x000007fefe7f9000 	C:\Windows\system32\MSCTF.dll
+0x00000000222f0000 - 0x00000000223f5000 	C:\Program Files\CheckPoint\ZAForceField\Plugins\ISWSHEX.dll
+0x0000000074a50000 - 0x0000000074b19000 	C:\Windows\WinSxS\amd64_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.4940_none_88df89932faf0bf6\MSVCR80.dll
+0x000007fefcd70000 - 0x000007fefcdaa000 	C:\Windows\system32\WINTRUST.dll
+0x000007fefcdf0000 - 0x000007fefcf57000 	C:\Windows\system32\CRYPT32.dll
+0x000007fefccc0000 - 0x000007fefcccf000 	C:\Windows\system32\MSASN1.dll
+0x0000000072750000 - 0x0000000072859000 	C:\Windows\WinSxS\amd64_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.4940_none_88df89932faf0bf6\MSVCP80.dll
+0x000007fefe100000 - 0x000007fefe303000 	C:\Windows\system32\ole32.dll
+0x000007fefb630000 - 0x000007fefb65d000 	C:\Windows\system32\ntmarta.dll
+0x000007fefe8c0000 - 0x000007fefe912000 	C:\Windows\system32\WLDAP32.dll
+0x000000006d7f0000 - 0x000000006de95000 	C:\Program Files\Java\jre6\bin\server\jvm.dll
+0x000007fefaed0000 - 0x000007fefaf0b000 	C:\Windows\system32\WINMM.dll
+0x000000006d760000 - 0x000000006d76e000 	C:\Program Files\Java\jre6\bin\verify.dll
+0x000000006d3b0000 - 0x000000006d3d7000 	C:\Program Files\Java\jre6\bin\java.dll
+0x000000006d310000 - 0x000000006d31a000 	C:\Program Files\Java\jre6\bin\hpi.dll
+0x0000000077440000 - 0x0000000077447000 	C:\Windows\system32\PSAPI.DLL
+0x000000006d420000 - 0x000000006d454000 	C:\Program Files\Java\jre6\bin\jdwp.dll
+0x000000006d630000 - 0x000000006d638000 	C:\Program Files\Java\jre6\bin\npt.dll
+0x000000006d7b0000 - 0x000000006d7c2000 	C:\Program Files\Java\jre6\bin\zip.dll
+
+VM Arguments:
+jvm_args: -agentlib:jdwp=transport=dt_socket,suspend=y,address=localhost:50438 -Dfile.encoding=Cp1252 -Xbootclasspath:C:\Program Files (x86)\Android\android-sdk\platforms\android-8\android.jar 
+java_command: ubc.cs.cpsc210.sustainabilityapp.routing.RoutingService
+Launcher Type: SUN_STANDARD
+
+Environment Variables:
+PATH=C:\Python27;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\WIDCOMM\Bluetooth Software\;C:\Program Files\WIDCOMM\Bluetooth Software\syswow64;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\Sony\VAIO Startup Setting Tool;C:\Program Files (x86)\Windows Live\Shared;C:\OpenCV2.2\bin;C:\Program Files\MATLAB\R2010a\runtime\win64;C:\Program Files\MATLAB\R2010a\bin;C:\Program Files (x86)\Git\cmd;c:\altera\90sp2\quartus\bin;C:\OpenCV2.1\bin
+USERNAME=Xueliang Liu
+OS=Windows_NT
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 37 Stepping 5, GenuineIntel
+
+
+
+---------------  S Y S T E M  ---------------
+
+OS: Windows 7 Build 7601 Service Pack 1
+
+CPU:total 4 (8 cores per cpu, 2 threads per core) family 6 model 37 stepping 5, cmov, cx8, fxsr, mmx, sse, sse2, sse3, ssse3, sse4.1, sse4.2, popcnt, ht
+
+Memory: 4k page, physical 3856204k(220828k free), swap 7710560k(3348584k free)
+
+vm_info: Java HotSpot(TM) 64-Bit Server VM (16.3-b01) for windows-amd64 JRE (1.6.0_20-b02), built on Apr 12 2010 13:44:19 by "java_re" with MS VC++ 8.0 (VS2005)
+
+time: Sat Nov 19 15:21:35 2011
+elapsed time: 0 seconds
+

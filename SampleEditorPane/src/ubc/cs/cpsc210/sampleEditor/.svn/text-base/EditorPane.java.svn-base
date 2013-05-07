@@ -1,0 +1,30 @@
+package ubc.cs.cpsc210.sampleEditor;
+
+import java.io.IOException;
+
+import javax.swing.JEditorPane;
+import javax.swing.JFrame;
+import javax.swing.JScrollPane;
+import javax.swing.event.HyperlinkEvent;
+import javax.swing.event.HyperlinkListener;
+
+public class EditorPane extends JFrame {
+
+	public EditorPane() {
+		try {
+			JEditorPane pane = new JEditorPane(
+					"http://www.cs.ubc.ca/~murphy/cs210-final-example.html");
+			pane.setEditable(false);
+			setContentPane(new JScrollPane(pane));
+			setSize(400, 400);
+			setVisible(true);
+		} catch (IOException ioe) {
+			ioe.printStackTrace();
+		}
+	}
+
+	public static void main(String args[]) {
+		EditorPane sampleEditorPane = new EditorPane();
+	}
+
+}

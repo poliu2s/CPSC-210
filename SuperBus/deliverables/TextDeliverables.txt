@@ -1,0 +1,37 @@
+Task M1
+-------
+
+AutoBus can be substituted for type Bus because, according to LSP, both methods that are
+overridden have equal or weaker preconditions and have stronger or equal postconditions.
+
+
+
+Task M6
+-------
+a) It will fail when the method throws a DoorException or a MotionException
+b) It must go through the entire method without throwing either of the above exceptions
+c) It is not possible to replace because it has the potential of throwing an acceptable
+RampException
+
+
+Task M7
+-------
+In the context of Substitutability, the postcondition
+should have a stronger restriction in the subtype than
+the superclass. If the subclass throws more checked exceptions
+that means that it is accepting greater number of errors to occur
+or in other words, relaxing the previous restriction made in
+the superclass.
+
+
+Task M8
+--------
+
+1. 
+a) 3
+b)5
+c) 6
+d)4
+e)1
+f)1
+g)5

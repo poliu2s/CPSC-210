@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/2011w1/!svn/ver/1223/lectures/PhotoAlbumBase/src/ca/ubc/cs/cpsc210/test
+END
+AllTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/2011w1/!svn/ver/1223/lectures/PhotoAlbumBase/src/ca/ubc/cs/cpsc210/test/AllTests.java
+END
+PhotoManagerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/2011w1/!svn/ver/1223/lectures/PhotoAlbumBase/src/ca/ubc/cs/cpsc210/test/PhotoManagerTest.java
+END
+PhotoLibraryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/2011w1/!svn/ver/1223/lectures/PhotoAlbumBase/src/ca/ubc/cs/cpsc210/test/PhotoLibraryTest.java
+END
+TagManagerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/2011w1/!svn/ver/1223/lectures/PhotoAlbumBase/src/ca/ubc/cs/cpsc210/test/TagManagerTest.java
+END
+PhotoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/2011w1/!svn/ver/1223/lectures/PhotoAlbumBase/src/ca/ubc/cs/cpsc210/test/PhotoTest.java
+END
+AlbumTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/2011w1/!svn/ver/1223/lectures/PhotoAlbumBase/src/ca/ubc/cs/cpsc210/test/AlbumTest.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/2011w1/!svn/ver/11524/lectures/GUI4/src/ca/ubc/cpsc210/drawingEditor/figures
+END
+Circle.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/2011w1/!svn/ver/11524/lectures/GUI4/src/ca/ubc/cpsc210/drawingEditor/figures/Circle.java
+END
+Rectangle.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/2011w1/!svn/ver/11524/lectures/GUI4/src/ca/ubc/cpsc210/drawingEditor/figures/Rectangle.java
+END
+Ellipse.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/2011w1/!svn/ver/11524/lectures/GUI4/src/ca/ubc/cpsc210/drawingEditor/figures/Ellipse.java
+END
+Square.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/2011w1/!svn/ver/11524/lectures/GUI4/src/ca/ubc/cpsc210/drawingEditor/figures/Square.java
+END
+CompositeFigure.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/2011w1/!svn/ver/11524/lectures/GUI4/src/ca/ubc/cpsc210/drawingEditor/figures/CompositeFigure.java
+END
+FigureDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/2011w1/!svn/ver/11524/lectures/GUI4/src/ca/ubc/cpsc210/drawingEditor/figures/FigureDecorator.java
+END
+Figure.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/2011w1/!svn/ver/11524/lectures/GUI4/src/ca/ubc/cpsc210/drawingEditor/figures/Figure.java
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/2011w1/!svn/ver/7673/users/L1A/x2f7/project-phaseOne/UBCSustainabilityApp-DataModel/src/ubc/cs/cpsc210/sustainabilityapp/model
+END
+POIHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/2011w1/!svn/ver/7519/users/L1A/x2f7/project-phaseOne/UBCSustainabilityApp-DataModel/src/ubc/cs/cpsc210/sustainabilityapp/model/POIHandler.java
+END
+KeyValueStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/2011w1/!svn/ver/5389/users/L1A/x2f7/project-phaseOne/UBCSustainabilityApp-DataModel/src/ubc/cs/cpsc210/sustainabilityapp/model/KeyValueStore.java
+END
+MemoryKeyValueStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/2011w1/!svn/ver/7519/users/L1A/x2f7/project-phaseOne/UBCSustainabilityApp-DataModel/src/ubc/cs/cpsc210/sustainabilityapp/model/MemoryKeyValueStore.java
+END
+LatLong.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/2011w1/!svn/ver/5389/users/L1A/x2f7/project-phaseOne/UBCSustainabilityApp-DataModel/src/ubc/cs/cpsc210/sustainabilityapp/model/LatLong.java
+END
+TourState.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/2011w1/!svn/ver/7519/users/L1A/x2f7/project-phaseOne/UBCSustainabilityApp-DataModel/src/ubc/cs/cpsc210/sustainabilityapp/model/TourState.java
+END
+POIRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/2011w1/!svn/ver/7673/users/L1A/x2f7/project-phaseOne/UBCSustainabilityApp-DataModel/src/ubc/cs/cpsc210/sustainabilityapp/model/POIRegistry.java
+END
+Feature.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/2011w1/!svn/ver/5389/users/L1A/x2f7/project-phaseOne/UBCSustainabilityApp-DataModel/src/ubc/cs/cpsc210/sustainabilityapp/model/Feature.java
+END
+PointOfInterest.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/2011w1/!svn/ver/7519/users/L1A/x2f7/project-phaseOne/UBCSustainabilityApp-DataModel/src/ubc/cs/cpsc210/sustainabilityapp/model/PointOfInterest.java
+END

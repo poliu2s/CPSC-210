@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/2011w1/!svn/ver/5575/users/L1A/x2f7/lab5/SuperBus/src/ca/ubc/cpsc/superbus/model/exception
+END
+BusException.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/2011w1/!svn/ver/5575/users/L1A/x2f7/lab5/SuperBus/src/ca/ubc/cpsc/superbus/model/exception/BusException.java
+END
+RampException.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/2011w1/!svn/ver/5575/users/L1A/x2f7/lab5/SuperBus/src/ca/ubc/cpsc/superbus/model/exception/RampException.java
+END
+MotionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/2011w1/!svn/ver/5575/users/L1A/x2f7/lab5/SuperBus/src/ca/ubc/cpsc/superbus/model/exception/MotionException.java
+END
+DoorException.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/2011w1/!svn/ver/5575/users/L1A/x2f7/lab5/SuperBus/src/ca/ubc/cpsc/superbus/model/exception/DoorException.java
+END
